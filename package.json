@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "colorette": "^1.2.0",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
